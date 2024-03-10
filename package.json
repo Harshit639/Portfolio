@@ -1,7 +1,7 @@
 {
-  "homepage": "https://harshit639.github.io",
+  "homepage": "https://harshit639.github.io/Portfolio",
   "name": "personal-portfolio",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@coreui/coreui": "^4.2.6",
